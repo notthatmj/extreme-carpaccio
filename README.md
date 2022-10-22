@@ -1,5 +1,7 @@
 # Extreme Carpaccio
 
+Hello, world!
+
 French version [here](./README-FR.md).
 
 Extreme Carpaccio is a coding game designed to encourage and favour incremental development and Continuous Delivery best practices.
